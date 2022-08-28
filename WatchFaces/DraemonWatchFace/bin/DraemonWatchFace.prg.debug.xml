@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\banta\eclipse-workspace\DraemonWatchFace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="21" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="22" pc="268435521" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="24" pc="268435564" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="25" pc="268435584" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="26" pc="268435604" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="27" pc="268435624" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="28" pc="268435644" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="3" lineNum="30" pc="268435664" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="4" lineNum="34" pc="268435708" symbol="drawHM"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="4" lineNum="35" pc="268435712" symbol="drawHM"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="4" lineNum="36" pc="268435792" symbol="drawHM"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="4" lineNum="37" pc="268435815" symbol="drawHM"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="5" lineNum="42" pc="268435902" symbol="drawDayWeek"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="5" lineNum="43" pc="268435906" symbol="drawDayWeek"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="5" lineNum="44" pc="268435988" symbol="drawDayWeek"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="6" lineNum="51" pc="268436099" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="6" lineNum="52" pc="268436103" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="68" pc="268436320" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="69" pc="268436324" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="72" pc="268436343" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="73" pc="268436379" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="74" pc="268436396" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="8" lineNum="76" pc="268436433" symbol="drawInformation"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="82" pc="268436496" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="83" pc="268436500" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="84" pc="268436517" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="89" pc="268436559" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="91" pc="268436570" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="92" pc="268436628" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="93" pc="268436683" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="9" lineNum="95" pc="268436719" symbol="drawNotify"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="10" lineNum="98" pc="268436759" symbol="drawBackgroundImage"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="10" lineNum="99" pc="268436763" symbol="drawBackgroundImage"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="10" lineNum="100" pc="268436774" symbol="drawBackgroundImage"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="11" lineNum="107" pc="268436808" symbol="onLayout"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="11" lineNum="108" pc="268436812" symbol="onLayout"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="12" lineNum="114" pc="268436877" symbol="onShow"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="118" pc="268436882" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="119" pc="268436886" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="120" pc="268436922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="122" pc="268436934" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="123" pc="268436951" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="124" pc="268436988" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="125" pc="268437025" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="126" pc="268437061" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="127" pc="268437075" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="128" pc="268437091" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="129" pc="268437109" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="130" pc="268437123" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="132" pc="268437137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="13" lineNum="133" pc="268437173" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="14" lineNum="140" pc="268437188" symbol="onHide"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="15" lineNum="144" pc="268437193" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="16" lineNum="148" pc="268437198" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonView.mc" id="16" lineNum="7" pc="268437817" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="18" lineNum="7" pc="268437203" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="18" lineNum="8" pc="268437207" symbol="initialize"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="19" lineNum="12" pc="268437226" symbol="onStart"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="20" lineNum="16" pc="268437231" symbol="onStop"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="21" lineNum="20" pc="268437236" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="21" lineNum="21" pc="268437240" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="21" lineNum="5" pc="268437768" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="22" lineNum="26" pc="268437278" symbol="getApp"/>
+        <entry filename="C:\\Users\\banta\\eclipse-workspace\\DraemonWatchFace\\source\\WatchFaceDraemonApp.mc" id="22" lineNum="27" pc="268437290" symbol="getApp"/>
+        <entry filename="Rez" id="28" lineNum="20" pc="268437307" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="22" pc="268437319" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="23" pc="268437398" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="24" pc="268437561" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="25" pc="268437640" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="27" pc="268437719" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="1" pc="268437787" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="9" object="true" symbol="WatchFaceDraemonView"/>
+        <entry field="true" id="14" symbol="BluetoothIcon"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="22" symbol="fnMedium"/>
+        <entry field="true" id="13" symbol="myBitmap"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="27" method="true" symbol="drawHM"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="15" symbol="NotificationIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="31" method="true" symbol="drawInformation"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="18" symbol="center"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="29" method="true" symbol="drawBattery"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8389714" symbol="INVALID_HR_SAMPLE"/>
+        <entry id="33" method="true" symbol="drawBackgroundImage"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="26" symbol="myBackgroundImage"/>
+        <entry field="true" id="23" symbol="fnLarge"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="30" method="true" symbol="&lt;globals/WatchFaceDraemonView/&lt;&gt;retrieveHeartrateText&gt;"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="21" symbol="fnSmall"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="28" method="true" symbol="drawDayWeek"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="25" symbol="fnTiny"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="20" symbol="bmNotify"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="32" method="true" symbol="drawNotify"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry field="true" id="19" symbol="bmBluetooth"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="24" symbol="fnNormal"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="10" object="true" symbol="WatchFaceDraemonApp"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435901" name="wh" stackId="4" startPc="268435712"/>
+        <entry endPc="268435901" name="timeString" stackId="3" startPc="268435712"/>
+        <entry arg="true" endPc="268435902" name="dc" stackId="1" startPc="268435708"/>
+        <entry arg="true" endPc="268435902" name="time" stackId="2" startPc="268435708"/>
+        <entry endPc="268436098" name="dayString" stackId="4" startPc="268435906"/>
+        <entry arg="true" endPc="268436099" name="dc" stackId="1" startPc="268435902"/>
+        <entry arg="true" endPc="268436099" name="timeM" stackId="2" startPc="268435902"/>
+        <entry arg="true" endPc="268436099" name="timeS" stackId="3" startPc="268435902"/>
+        <entry arg="true" endPc="268436228" name="dc" stackId="1" startPc="268436099"/>
+        <entry endPc="268436319" name="currentHeartrate" stackId="1" startPc="268436232"/>
+        <entry endPc="268436495" name="valueString" stackId="3" startPc="268436324"/>
+        <entry endPc="268436495" name="info" stackId="2" startPc="268436324"/>
+        <entry arg="true" endPc="268436496" name="dc" stackId="1" startPc="268436320"/>
+        <entry endPc="268436755" name="wh" stackId="4" startPc="268436570"/>
+        <entry endPc="268436755" name="tl" stackId="5" startPc="268436570"/>
+        <entry endPc="268436758" name="info" stackId="2" startPc="268436500"/>
+        <entry endPc="268436758" name="y" stackId="3" startPc="268436500"/>
+        <entry arg="true" endPc="268436759" name="dc" stackId="1" startPc="268436496"/>
+        <entry arg="true" endPc="268436808" name="dc" stackId="1" startPc="268436759"/>
+        <entry arg="true" endPc="268436877" name="dc" stackId="1" startPc="268436808"/>
+        <entry endPc="268437187" name="nowM" stackId="3" startPc="268436886"/>
+        <entry endPc="268437187" name="now" stackId="2" startPc="268436886"/>
+        <entry endPc="268437187" name="nowS" stackId="4" startPc="268436886"/>
+        <entry arg="true" endPc="268437188" name="dc" stackId="1" startPc="268436882"/>
+        <entry arg="true" endPc="268437231" name="state" stackId="1" startPc="268437226"/>
+        <entry arg="true" endPc="268437236" name="state" stackId="1" startPc="268437231"/>
+        <entry endPc="268437766" name="rez_cmp_local_bitmap_BluetoothIcon" stackId="4" startPc="268437319"/>
+        <entry endPc="268437766" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437319"/>
+        <entry endPc="268437766" name="rez_cmp_local_bitmap_NotificationIcon" stackId="5" startPc="268437319"/>
+        <entry endPc="268437766" name="rez_cmp_local_bitmap_myBitmap" stackId="2" startPc="268437319"/>
+        <entry arg="true" endPc="268437767" name="dc" stackId="1" startPc="268437307"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="myBitmap"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BluetoothIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="NotificationIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/WatchFaceDraemonApp" offset="158" parentId="globals" symbolId="WatchFaceDraemonApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="229" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="472" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/WatchFaceDraemonView" offset="542" parentId="globals" symbolId="WatchFaceDraemonView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHM" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDayWeek" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <param id="timeM"/>
+            <param id="timeS"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBattery" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/WatchFaceDraemonView/&lt;&gt;retrieveHeartrateText&gt;" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawInformation" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNotify" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackgroundImage" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="WatchFaceDraemonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="WatchFaceDraemonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WatchFaceDraemonApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="WatchFaceDraemonApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="WatchFaceDraemonApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="WatchFaceDraemonApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <bitmap id="myBitmap" filename="../images/DoraemonRect.png"></bitmap><label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" /><bitmap
+		id="BluetoothIcon" filename="../images/BluetoothIconTrans.png">
+</bitmap>
+	<bitmap id="NotificationIcon" filename="../images/NotificationIcon.png"></bitmap></layout>
